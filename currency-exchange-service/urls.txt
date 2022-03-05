@@ -1,0 +1,5 @@
+Currency Exchnage Service
+http://localhost:8000/currency-exchange/from/USD/to/LKR
+
+currency conversion service
+http://localhost:8100/currency-conversion/form/USD/to/LKR/quantity/10

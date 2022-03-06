@@ -19,4 +19,4 @@ This is a sample microservice project using Springboot and Spring Cloud
 | Currency Exchange Service     | 8000, 8001, ..  |
 | Currency Conversion Service   | 8100, 8101, ..  |
 | Netflix Eureka Naming Server  | 8761            |
-| API Gateway Serve             | 8765            |
+| API Gateway Server            | 8765            |
